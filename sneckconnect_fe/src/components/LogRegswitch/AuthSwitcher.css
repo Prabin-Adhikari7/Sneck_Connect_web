@@ -1,0 +1,24 @@
+
+/* Style for the container of the authentication switcher */
+.auth-switcher-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Style for the switch buttons */
+  .auth-switcher-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  /* Style for the switch buttons on hover */
+  .auth-switcher-button:hover {
+    background-color: #0056b3;
+  }
+  
